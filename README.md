@@ -1,4 +1,7 @@
 # http-tcp-analysis-wireshark
+
+See the assignment file for details about the projtect:
+
 Run the program
 
 python analysis_pcap_tcp.py 
